@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/rmanojcse06/skillfyme_dvc_forecast_system.dvc
